@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Before the training
+    chapters:
+    - file: session0/preparation.md
+    
+  - caption: Basics of Generative AI
+    chapters:
+    - url: https://github.com/ScaDS/ai4science-ufz-2025/blob/main/session1/AIST1_Intro.pdf?raw=True
+      title: Slides
+    - file: session1/speech-generation.md
+    - file: session1/deepresearch.md
+    - file: session1/notebooklm.md
+    - file: session1/ai_data_analysis.md
+
+  - caption: Appendix
+    chapters:
+    #- url: https://doi.org/10.5281/zenodo.17799126
+    #  title: Slides as PPTx (Zenodo)
+    - url: https://creativecommons.org/licenses/by/4.0/deed.en
+      title: "License: CC-BY 4.0"
+    - file: imprint.md
