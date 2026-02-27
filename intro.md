@@ -6,20 +6,26 @@ Slides are available [online]() for reuse. Materials on this website and slides 
 
 ## Program
 
-11:00 - 11:45 [Introduction and Fundamentals](session1/AIST1_Intro.pdf)
+11:00 - 11:40 [Introduction and Fundamentals](session1/AIST.pdf)
 
 * Introduction to Artificial Intelligence, AI systems and language models
 * Prompt engineering
 * AI-assisted literature research
 * AI-assisted data analysis code generation
 
-11:45 - 12:20 Exercises
+11:40 - 12:20 Exercises
 
 * [Speech Generation](session1/speech-generation.md)
 * [Deep Research](session1/deepresearch.md)
 * [Video Overviews](session1/notebooklm.md)
 * [Data analysis](session1/ai_data_analysis.md)
-
+* AI-assisted code generation in Jupyter
+  * [Generating code using bia-bob](session2/bia-bob-demo.ipynb)
+  * [Generating Jupyter notebooks](session2/generate_notebook.ipynb)
+  * [Translating notebooks](session2/translating_notebooks.ipynb)
+  * [Documenting code](session2/documenting_code.ipynb)
+  * [AI-assisted bug-fixing](session2/bug_fixing.ipynb)
+ 
 12:20 - 12:30 Final discussion, feedback round
 
 ## Trainer
