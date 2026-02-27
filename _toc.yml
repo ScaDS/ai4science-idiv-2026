@@ -7,6 +7,7 @@ parts:
   - caption: Before the training
     chapters:
     - file: session0/preparation.md
+    - file: session0/readme.md
     
   - caption: Basics of Generative AI
     chapters:
