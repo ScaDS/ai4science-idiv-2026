@@ -5,14 +5,16 @@
 Dr. rer. medic. Robert Haase
 
 ## Kontakt
-Telefon: +49 341 97 39309\
+
+Telefon: +49 341 97 39309  
 E-Mail: robert.haase (at] uni-leipzig.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Dr. rer. medic. Robert Haase\
-ScaDS.AI Dresden / Leipzig\
-Universität Leipzig\
-Humboldstraße 25\
+
+Dr. rer. medic. Robert Haase  
+ScaDS.AI Dresden / Leipzig  
+Universität Leipzig  
+Humboldstraße 25  
 04105 Leipzig
 
 # Haftungsausschluss
@@ -34,3 +36,4 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
